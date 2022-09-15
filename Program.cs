@@ -37,6 +37,7 @@ namespace CannedMeat
             _cannedMeats.Add(new CannedMeat("Веселая корова", 4, 2018));
             _cannedMeats.Add(new CannedMeat("Веселая корова", 4, 2017));
         }
+        
         public void ShowExpiredCannedMeats()
         {
             Console.WriteLine("Просроченные консервы: ");
