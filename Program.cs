@@ -45,7 +45,6 @@ namespace CannedMeat
             ShowInfo(expiredCannedMeats);
         }
 
-
         public void ShowAllCannedMeats()
         {
             Console.WriteLine("Все консервы на складе:");
